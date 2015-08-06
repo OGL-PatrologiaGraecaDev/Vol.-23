@@ -1,0 +1,38 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/23 (Eusebius, pt. 5)/nyp.33433081862363/006.png"; bbox 0 0 3818 6194; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 68 20 532 416">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 72 25 532 411">
+     <span class='ocr_line' id='line_1_1' title="bbox 72 25 532 411; baseline 0 -38"><span class='ocrx_word' id='word_1_1' title='bbox 72 25 532 411; x_wconf 63' lang='grc' dir='ltr'>Γ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 98 3600 296 6194">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 102 3604 275 5725">
+     <span class='ocr_line' id='line_1_2' title="bbox 170 3604 213 3677; baseline -0.14 0"><span class='ocrx_word' id='word_1_2' title='bbox 170 3604 213 3677; x_wconf 66' lang='grc' dir='ltr'><em>Ἶὲ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 181 3853 204 3922; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 181 3853 204 3922; x_wconf 51' lang='lat' dir='ltr'>ﬁ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 152 4272 186 4323; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 152 4272 186 4323; x_wconf 60' lang='grc'><em>’-</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 152 4558 159 4577; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 152 4558 159 4577; x_wconf 50' lang='lat' dir='ltr'><strong><em>ﬁ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 159 4743 229 4803; baseline 0.071 -5"><span class='ocrx_word' id='word_1_6' title='bbox 159 4743 172 4798; x_wconf 73' lang='grc' dir='ltr'><strong><em>ε</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 222 4744 229 4803; x_wconf 71' lang='lat'><strong><em>5</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 104 5003 241 5074; baseline 0 -29"><span class='ocrx_word' id='word_1_8' title='bbox 236 5032 241 5057; x_wconf 33' lang='grc' dir='ltr'><em>χ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 125 5081 239 5149; baseline 0 -51"><span class='ocrx_word' id='word_1_9' title='bbox 234 5090 239 5123; x_wconf 24' lang='grc' dir='ltr'><strong><em>ἡ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 102 5266 237 5338; baseline -0.015 -57"><span class='ocrx_word' id='word_1_10' title='bbox 102 5266 158 5338; x_wconf 38' lang='grc' dir='ltr'><em>ρ</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 236 5276 237 5279; x_wconf 21' lang='grc' dir='ltr'><strong><em>χ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 121 5339 241 5373; baseline 0.025 -3"><span class='ocrx_word' id='word_1_12' title='bbox 121 5339 140 5370; x_wconf 58' lang='lat'><em>9‘</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 234 5342 241 5373; x_wconf 59' lang='grc' dir='ltr'><em>ξ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 234 5378 245 5409; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 234 5378 245 5409; x_wconf 64' lang='grc' dir='ltr'><em>εὶ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 114 5574 152 5626; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 114 5574 152 5626; x_wconf 77' lang='grc'><em>’</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 129 5629 275 5662; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 129 5629 150 5662; x_wconf 70' lang='grc' dir='ltr'>,Σ</span> <span class='ocrx_word' id='word_1_17' title='bbox 268 5638 275 5655; x_wconf 77' lang='grc' dir='ltr'><strong>ν</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 108 5670 273 5725; baseline 0.006 -1"><span class='ocrx_word' id='word_1_18' title='bbox 108 5697 136 5711; x_wconf 45' lang='grc' dir='ltr'><em>ν</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 227 5670 273 5725; x_wconf 63' lang='grc' dir='ltr'><em>ὲ</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
